@@ -10,3 +10,4 @@ $page = $template_args['page'];
     </div>
     -->
 </div>
+<?php the_content();>
